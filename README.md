@@ -5,3 +5,5 @@
  * 3，keyword不超过控件宽度，text超过控件宽度，keyword在不可见可见范围的中间（前面加三个点最后加三个点）
  * 4，keyword超过控件宽度，只显示keyword（只在最后加三个点）
  * 5，keyword等于控件宽度，只显示keyword
+ 
+![demo展示]()
