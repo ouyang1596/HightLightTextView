@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HightLightTextView">
+        <attr name="hTextSize" format="dimension" />
+        <attr name="hKeywordColor" format="color" />
+        <attr name="hTextColor" format="color" />
+    </declare-styleable>
+</resources>
