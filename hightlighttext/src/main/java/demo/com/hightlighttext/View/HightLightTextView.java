@@ -11,7 +11,6 @@ import android.view.View;
 
 import demo.com.hightlighttext.R;
 
-
 /**
  * 自定义搜索文本显示
  * 有以下五种情况：
